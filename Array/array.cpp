@@ -25,7 +25,7 @@ void array::pair_with_given_sum() {
 	{
 		std::cin >> dArray[i];
 	}
-
+	
 	std::cout << "Enter the sum num\n";
 	std::cin >> sum;
 
